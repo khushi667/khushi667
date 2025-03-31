@@ -48,10 +48,6 @@ I am currently pursuing my graduation at **KM Agarwal College**, completing my d
 
 ---
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=khushi667&theme=radical)
-
----
-
 ## 🌟 Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khushi667&theme=react-dark)
 
