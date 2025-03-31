@@ -20,6 +20,13 @@ Check out my portfolio to explore my skills, and experience:
 
 ---
 
+💼 **Resume**  
+Check out my resume to explore my skills, and experience:  
+🌐 **[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/khushi667/  khushi667/raw/main/resume.pdf)
+**  
+
+---
+
 📈 **Current Projects**  
 - **Stock Visualization**: Real-time stock data analysis using Highcharts, React, and Express.  
 - **Quiz Application**: A React and Redux-based interactive quiz platform with detailed result tracking.  
