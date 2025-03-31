@@ -22,7 +22,7 @@ Check out my portfolio to explore my skills, and experience:
 
 💼 **Resume**  
 Check out my resume to explore my skills, and experience:  
-📄 **[Download My Resume](https://github.com/khushi667/khushi667/raw/main/resume.pdf)**
+📄 **[Download My Resume](Khushi Resume-1.pdf)**
  
 
 ---
