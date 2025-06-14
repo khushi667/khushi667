@@ -1,16 +1,16 @@
 # Hi there, I'm Khushi Mishra! 👋
 
 🎓 **About Me**  
-I am currently pursuing my graduation at **KM Agarwal College**, completing my degree in **2025**. With a strong foundation in programming, I am passionate about leveraging my technical skills to create impactful solutions.
+I’m a BScIT graduate from KM Agarwal College in **2025**. With a strong foundation in full-stack web development and a growing passion for crafting scalable and dynamic web applications, I enjoy bringing ideas to life through clean code and elegant design.
 
 ---
 
 ## 🛠️ Technologies & Skills  
-- **Frontend**: HTML, CSS, JavaScript, React, Redux  
+- **Frontend**: HTML, CSS, JavaScript, React, Redux, Angular  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB, SQL  
 - **Other**: MERN Stack, Highcharts  
-- **Programming Languages**: C, C++, JavaScript  
+- **Programming Languages**:  C, C++, JavaScript, TypeScript  
 
 ---
 
