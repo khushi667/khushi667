@@ -21,7 +21,7 @@ I’m a BScIT graduate from KM Agarwal College in **2025**. With a strong founda
 ---
 
 ## 📄 Resume  
-📂 **[Download My Resume](https://github.com/khushi667/khushi667/raw/main/Khushi%20Resume-1.pdf)**  
+📂 **[Download My Resume](https://github.com/khushi667/khushi667/raw/main/Khushi_Mishra.pdf)**  
 
 ---
 
